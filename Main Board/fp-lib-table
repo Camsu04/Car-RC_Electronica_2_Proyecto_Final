@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Toggle")(type "KiCad")(uri "${KIPRJMOD}/Toggle.pretty")(options "")(descr ""))
+)
